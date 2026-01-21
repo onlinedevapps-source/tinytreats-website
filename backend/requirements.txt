@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+sqlmodel
+supabase
+pydantic
+python-dotenv
+reportlab
+python-multipart
+passlib[bcrypt]
